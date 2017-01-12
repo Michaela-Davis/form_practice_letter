@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+}
+
+#letter {
+  display: none;
+  max-width: 1000px;
+}
+
+#leftAddress {
+  text-align: right;
+  font-size: 90%;
+}
+
+h2{
+  font-size: 95%;
+}
+
+p {}
